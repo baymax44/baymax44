@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Eric Jeng, experienced JavaScript Developer ⚡️</h1>
-<img src="github-banner.png" style="width: 100%" alt="A smooth sea never made a skillful tailor" />
+<img src="github-banner.jpg" style="width: 100%; height: 20px; object-fit: cover;" alt="A smooth sea never made a skillful tailor" />
 <h4 align="center"><a href="https://www.linkedin.com/in/eric--jeng/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/baymax44">Stack Overflow</a> &bull; <a href="https://ericjeng.netlify.app">Personal Website</a></h4>
 
 ---
