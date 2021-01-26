@@ -1,6 +1,6 @@
 <h1 align="center">⚡️ Eric Jeng, experienced JavaScript Developer ⚡️</h1>
 <div style="width: 100%; height: 20px; display: flex; justify-content: center;">
-  <img src="eric-jeng.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="A smooth sea never made a skillful tailor" />
+  <img src="js-developer.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="A smooth sea never made a skillful tailor" />
 </div>
 <h4 align="center"><a href="https://www.linkedin.com/in/eric--jeng/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/baymax44">Stack Overflow</a> &bull; <a href="https://ericjeng.netlify.app">Personal Website</a></h4>
 
