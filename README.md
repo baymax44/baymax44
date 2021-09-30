@@ -15,3 +15,5 @@ Eric Zeng, who is a high-skilled web developer with extensive experience in the 
 - 👍 Project Management and System analyzing
 - 👍 In-depth understanding of many web development skills
 - 👍 Capable of working within specific timelines and deadlines
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly" alt="GitHub Stats for Eric Zeng" style="width: 100%;" />
