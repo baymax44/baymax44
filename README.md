@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Eric Zeng, experienced JavaScript Developer ⚡️</h1>
+<h1 align="center">⚡️ Eric Zeng, Senior Full-Stack Developer ⚡️</h1>
 <div style="width: 100%; height: 20px; display: flex; justify-content: center;">
   <img src="js-developer.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="A smooth sea never made a skillful tailor" />
 </div>
