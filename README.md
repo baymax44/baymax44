@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f664d9&size=32&duration=3000&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi%2C+I+am+Eric+Zeng+👋;I+am+a+Javascript+Developer;Front-End+Developer;DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=f664d9&size=32&duration=3000&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I+am+Eric+Zeng+👋;I+am+a+Javascript+Developer+...;Front-End+Developer+...;DevOps+Engineer." />
 </h1>
 
 <h5 align="center">
@@ -18,7 +18,6 @@
 </div>
 
 <br />
-<br />
 
 <div align="center">
   💡 Advanced mathematical and science skills
@@ -32,7 +31,6 @@
   ⏱ Capable of working within specific timelines and deadlines
 </div>
 
-<br />
 <br />
 <div align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" width="80%"/>
