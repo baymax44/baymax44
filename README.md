@@ -3,13 +3,13 @@
 </h1>
 
 <h5 align="left">
-  <code><a href="https://www.linkedin.com/in/eric--zeng/" title="Linkedin Profile">LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/eric--zeng/" title="Linkedin Profile"><img width="24" src="./images/linkedin.png" alt="Eric Zeng's Linkedin Profile" />&nbsp;&nbsp;LinkedIn</a></code>
   &bull;
-  <code><a href="https://ericzeng.netlify.app">Personal Website</a></code>
+  <code><a href="https://ericzeng.netlify.app"><img width="24" src="./images/logo.png" alt="Eric Zeng" />&nbsp;&nbsp;Personal Website</a></code>
 </h5>
 
 <p align="left">
-  Eric Zeng, a high-skilled javascript developer with extensive experience in the field, is here. 😁
+  👋&nbsp;&nbsp;&nbsp;Eric Zeng, a high-skilled javascript developer with extensive experience in the field, is here.
 </p>
 
 <div align="left">
