@@ -20,15 +20,15 @@
 <br />
 
 <div align="left">
-  💡 Advanced mathematical and science skills
+  💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
   <br />
-  🥷 Extensive Experiences in the Front-End development for web, mobile and TV fields
+  🥷&nbsp;&nbsp;&nbsp;Extensive Experiences in the Front-End development for web, mobile and TV fields
   <br />
-  🎩 Project Management, CI/CD and System analyzing
+  🎩&nbsp;&nbsp;&nbsp;Project Management, CI/CD and System analyzing
   <br />
-  🔬 In-depth understanding of the Javascript
+  🔬&nbsp;&nbsp;&nbsp;In-depth understanding of the Javascript
   <br />
-  ⏱ Capable of working within specific timelines and deadlines
+  ⏱&nbsp;&nbsp;&nbsp;Capable of working within specific timelines and deadlines
 </div>
 
 <br />
