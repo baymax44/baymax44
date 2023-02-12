@@ -15,8 +15,6 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|
 |---|---|
 
-<br />
-
 <h4 align="left">
   💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
   <br />
@@ -32,8 +30,6 @@
   <br />
   ⏱&nbsp;&nbsp;&nbsp;Capable of working within specific timelines and deadlines
 </h4>
-
-<br />
 
 |<img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />|
 |---|
