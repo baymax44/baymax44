@@ -12,10 +12,8 @@
   👋&nbsp;&nbsp;&nbsp;Eric Zeng, a high-skilled javascript developer with extensive experience in the field, is here.
 </h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" style="width: 46%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" style="width: 49%;" />
-</div>
+|<img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|
+|---|---|
 
 <br />
 
@@ -36,8 +34,8 @@
 </h4>
 
 <br />
-<div align="left">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" width="98%"/>
-</div>
+
+|<img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />|
+|---|
 
 ![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
