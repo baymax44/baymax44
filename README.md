@@ -1,37 +1,48 @@
-<h1 align="left">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=f664d9&size=32&duration=4000&vCenter=true&width=600&height=80&lines=Hi%2C+I+am+Eric+Zeng+👋;I+am+a+Javascript+Developer...;Front-End+Developer...;DevOps+Engineer." />
-</h1>
+</p>
 
-<h5 align="left">
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="50%" valign="middle" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
+      </td>
+      <td width="50%" valign="middle" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
+        <p>
+          💡<br />Advanced mathematical and science skills
+          <br />
+          <br />
+          🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
+          <br />
+          <br />
+          🎩<br />Project Management, CI/CD and System analyzing
+          <br />
+          <br />
+          🔬<br />In-depth understanding of the Javascript
+          <br />
+          <br />
+          ⏱<br />Capable of working within specific timelines and deadlines
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
+
+<p align="left">
   <code><a href="https://www.linkedin.com/in/eric--zeng/" title="Linkedin Profile">LinkedIn</a></code>
   &bull;
   <code><a href="https://ericzeng.netlify.app">Personal Website</a></code>
-</h5>
-
-<h3 align="left">
-  👋&nbsp;&nbsp;&nbsp;Eric Zeng, a high-skilled javascript developer with extensive experience in the field, is here.
-</h3>
-
-|<img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />|
-|---|---|
-
-<h4 align="left">
-  💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
-  <br />
-  <br />
-  🥷&nbsp;&nbsp;&nbsp;Extensive Experiences in the Front-End development for web, mobile and TV fields
-  <br />
-  <br />
-  🎩&nbsp;&nbsp;&nbsp;Project Management, CI/CD and System analyzing
-  <br />
-  <br />
-  🔬&nbsp;&nbsp;&nbsp;In-depth understanding of the Javascript
-  <br />
-  <br />
-  ⏱&nbsp;&nbsp;&nbsp;Capable of working within specific timelines and deadlines
-</h4>
-
-|<img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />|
-|---|
-
-![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
+</p>
