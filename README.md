@@ -40,9 +40,3 @@
 </table>
 
 ![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
-
-<p align="left">
-  <code><a href="https://www.linkedin.com/in/eric--zeng/" title="Linkedin Profile">LinkedIn</a></code>
-  &bull;
-  <code><a href="https://ericzeng.netlify.app">Personal Website</a></code>
-</p>
