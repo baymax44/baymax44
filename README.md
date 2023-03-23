@@ -16,17 +16,33 @@
       <td colspan="2" valign="middle" align="center">
         <p>
           💡<br />Advanced mathematical and science skills
-          <br />
-          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
+        <p>
           🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
-          <br />
-          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
+        <p>
           🎩<br />Project Management, CI/CD and System analyzing
-          <br />
-          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
+        <p>
           🔬<br />In-depth understanding of the Javascript
-          <br />
-          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
+        <p>
           ⏱<br />Capable of working within specific timelines and deadlines
         </p>
       </td>
