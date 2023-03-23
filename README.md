@@ -9,21 +9,19 @@
         <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
       </td>
       <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="middle" align="center">
         <p>
           💡<br />Advanced mathematical and science skills
         </p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" valign="middle" align="center">
+      <td width="50%" valign="middle" align="center">
         <p>
           🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
         </p>
+      </td>
+      <td width="50%" valign="middle" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
       </td>
     </tr>
     <tr>
