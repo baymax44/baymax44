@@ -7,7 +7,7 @@
     <tr>
       <td width="50%" valign="middle" align="center">
         <p>
-          💡<br />Advanced mathematical and science skills
+          🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
@@ -20,7 +20,7 @@
       </td>
       <td width="50%" valign="middle" align="center">
         <p>
-          🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
+          ⏱<br />Capable of working within specific timelines and deadlines
         </p>
       </td>
     </tr>
@@ -41,7 +41,7 @@
     <tr>
       <td colspan="2" valign="middle" align="center">
         <p>
-          ⏱<br />Capable of working within specific timelines and deadlines
+          💡<br />Advanced mathematical and science skills
         </p>
       </td>
     </tr>
