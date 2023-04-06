@@ -7,7 +7,7 @@
     <tr>
       <td width="50%" valign="middle" align="center">
         <p>
-          🥷<br />Extensive Experiences in the Front-End development for web, mobile and TV fields
+          🥷<br />Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
@@ -20,28 +20,28 @@
       </td>
       <td width="50%" valign="middle" align="center">
         <p>
-          ⏱<br />Capable of working within specific timelines and deadlines
+          🎩<br />Project management and systems analysis professional with a proven ability to drive results. Expertise in agile methodologies, CI/CD, and system analysis.
         </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="middle" align="center">
         <p>
-          🎩<br />Project Management, CI/CD and System analyzing
+          ⏱<br />Able to prioritize and manage time effectively
         </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="middle" align="center">
         <p>
-          🔬<br />In-depth understanding of the Javascript
+          🔬<br />Expert JavaScript developer with a strong understanding of the language's syntax, semantics, and features. Proven ability to develop high-quality, maintainable code.
         </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" valign="middle" align="center">
         <p>
-          💡<br />Advanced mathematical and science skills
+          💡<br />Creative and innovative thinker with a strong ability to think outside the box. Experienced in developing new and innovative solutions to complex problems.
         </p>
       </td>
     </tr>
