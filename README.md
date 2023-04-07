@@ -6,19 +6,21 @@
   <tbody>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <p>
-          🥷<br />Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
-        </p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
       </td>
       <td width="50%" valign="middle" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" />
+      <td colspan="2" valign="middle" align="center">
+        <p>
+          🥷<br />Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
+        </p>
       </td>
-      <td width="50%" valign="middle" align="center">
+    </tr>
+    <tr>
+      <td colspan="2" valign="middle" align="center">
         <p>
           🎩<br />Project management and systems analysis professional with a proven ability to drive results. Expertise in agile methodologies, CI/CD, and system analysis.
         </p>
