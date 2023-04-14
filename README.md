@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=f664d9&size=32&duration=4000&vCenter=true&width=600&height=80&lines=Hi%2C+I+am+Eric+Zeng+👋;I+am+a+Javascript+Developer...;Front-End+Developer...;DevOps+Engineer." />
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
+
+
 <table align="center">
   <tbody>
     <tr>
@@ -43,8 +47,6 @@
     </tr>
   </tbody>
 </table>
-
-![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
