@@ -17,32 +17,33 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="middle" align="center">
+      <td width="50%" valign="middle" align="left">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
-        <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
+        <ul>
+          <li>
+            🥷 Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
+          </li>
+          <br />
+          <li>
+            🎩 Project management and systems analysis professional with a proven ability to drive results. Expertise in agile methodologies, CI/CD, and system analysis.
+          </li>
+          <br />
+          <li>
+            ⏱ Able to prioritize and manage time effectively
+          </li>
+        </ul>
       </td>
       <td width="50%" valign="middle" align="left">
         <ul>
-          <li>
-            🥷<br />Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
+         <li>
+            🔬 Expert JavaScript developer with a strong understanding of the language's syntax, semantics, and features. Proven ability to develop high-quality, maintainable code.
           </li>
           <br />
           <li>
-            🎩<br />Project management and systems analysis professional with a proven ability to drive results. Expertise in agile methodologies, CI/CD, and system analysis.
-          </li>
-          <br />
-          <li>
-            ⏱<br />Able to prioritize and manage time effectively
-          </li>
-          <br />
-          <li>
-            🔬<br />Expert JavaScript developer with a strong understanding of the language's syntax, semantics, and features. Proven ability to develop high-quality, maintainable code.
-          </li>
-          <br />
-          <li>
-            💡<br />Creative and innovative thinker with a strong ability to think outside the box. Experienced in developing new and innovative solutions to complex problems.
+            💡 Creative and innovative thinker with a strong ability to think outside the box. Experienced in developing new and innovative solutions to complex problems.
           </li>
         </ul>
+        <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
       </td>
     </tr>
   </tbody>
