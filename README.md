@@ -16,9 +16,6 @@
       <td width="50%" valign="middle" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
         <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
-        
-        <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
       </td>
       <td width="50%" valign="middle" align="left">
         <ul>
@@ -48,3 +45,7 @@
 </table>
 
 ![](https://komarev.com/ghpvc/?username=baymax44&color=blueviolet)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
