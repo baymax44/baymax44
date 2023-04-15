@@ -50,5 +50,14 @@
 </table>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 13 April 2023 - To: 14 April 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
