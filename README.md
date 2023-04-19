@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 16 April 2023
+From: 13 April 2023 - To: 17 April 2023
 
-Total Time: 3 mins
+Total Time: 25 mins
 
-INI          3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.62 %
-JavaScript   0 secs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.38 %
+JavaScript   22 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.77 %
+INI          3 mins          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.23 %
 ```
 
 <!--END_SECTION:waka-->
