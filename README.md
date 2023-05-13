@@ -12,7 +12,7 @@
       <td colspan="2" valign="middle" align="center">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />
         <p>
-          <b>Eric Zeng</b>, who is a high-skilled full-stack developer with extensive experience in the various fields, is looking for an opportunity to use his knowledge and experience to be an asset to a company in need.
+          <b>Eric Zeng</b>, who is a high-skilled full-stack developer with extensive experience in the various fields.
         </p>
       </td>
     </tr>
