@@ -12,7 +12,7 @@
       <td colspan="2" valign="middle" align="center">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />
         <p>
-          <b>Eric Zeng</b>, who is a high-skilled full-stack developer with extensive experience in the various fields.
+          <b>Eric Zeng</b>, a high-skilled full-stack developer with extensive experience in the various fields.
         </p>
       </td>
     </tr>
