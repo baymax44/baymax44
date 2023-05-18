@@ -22,6 +22,7 @@
     <tr>
       <td width="50%" valign="middle" align="left">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
+        <span>&nbsp;</span>
         <ul>
           <li>
             🥷 Experienced front-end developer with a proven track record in developing user-friendly and responsive web, mobile, and TV applications
@@ -35,8 +36,10 @@
             ⏱ Able to prioritize and manage time effectively
           </li>
         </ul>
+        <span>&nbsp;</span>
       </td>
       <td width="50%" valign="middle" align="left">
+        <span>&nbsp;</span>
         <ul>
          <li>
             🔬 Expert JavaScript developer with a strong understanding of the language's syntax, semantics, and features. Proven ability to develop high-quality, maintainable code.
@@ -46,6 +49,7 @@
             💡 Creative and innovative thinker with a strong ability to think outside the box. Experienced in developing new and innovative solutions to complex problems.
           </li>
         </ul>
+        <span>&nbsp;</span>
         <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
       </td>
     </tr>
