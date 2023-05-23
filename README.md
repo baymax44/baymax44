@@ -50,7 +50,7 @@
           </li>
         </ul>
         <span>&nbsp;</span>
-        <img src="https://github-readme-stats.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
+        <img src="https://github-readme-stats-baymax44.vercel.app/api?username=baymax44&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
       </td>
     </tr>
   </tbody>
