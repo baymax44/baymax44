@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td width="50%" valign="middle" align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
+        <img src="https://github-readme-streak-stats-black.vercel.app/?user=baymax44&theme=jolly&hide_border=true" alt="GitHub Stats for Eric Zeng" width="100%" />
         <span>&nbsp;</span>
         <ul>
           <li>
