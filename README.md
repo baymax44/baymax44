@@ -13,7 +13,7 @@
         <img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=baymax44&color=f664d9&point=f664d9&bg_color=291b3e&hide_border=true" />
         <p>
           <br />
-          <b>Eric Zeng</b>, a high-skilled full-stack developer with extensive experience in the various fields.
+          <b>Eric Zeng</b>, highly skilled full-stack developer with vast expertise in diverse domains.
           <br />
           <span>&nbsp;</span>
         </p>
